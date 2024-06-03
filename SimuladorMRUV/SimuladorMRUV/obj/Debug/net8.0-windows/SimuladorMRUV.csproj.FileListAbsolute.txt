@@ -1,0 +1,16 @@
+C:\source\repos\SimuladorMRUV\SimuladorMRUV\bin\Debug\net8.0-windows\SimuladorMRUV.exe
+C:\source\repos\SimuladorMRUV\SimuladorMRUV\bin\Debug\net8.0-windows\SimuladorMRUV.deps.json
+C:\source\repos\SimuladorMRUV\SimuladorMRUV\bin\Debug\net8.0-windows\SimuladorMRUV.runtimeconfig.json
+C:\source\repos\SimuladorMRUV\SimuladorMRUV\bin\Debug\net8.0-windows\SimuladorMRUV.dll
+C:\source\repos\SimuladorMRUV\SimuladorMRUV\bin\Debug\net8.0-windows\SimuladorMRUV.pdb
+C:\source\repos\SimuladorMRUV\SimuladorMRUV\obj\Debug\net8.0-windows\SimuladorMRUV.Form1.resources
+C:\source\repos\SimuladorMRUV\SimuladorMRUV\obj\Debug\net8.0-windows\SimuladorMRUV.csproj.GenerateResource.cache
+C:\source\repos\SimuladorMRUV\SimuladorMRUV\obj\Debug\net8.0-windows\SimuladorMRUV.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\SimuladorMRUV\SimuladorMRUV\obj\Debug\net8.0-windows\SimuladorMRUV.AssemblyInfoInputs.cache
+C:\source\repos\SimuladorMRUV\SimuladorMRUV\obj\Debug\net8.0-windows\SimuladorMRUV.AssemblyInfo.cs
+C:\source\repos\SimuladorMRUV\SimuladorMRUV\obj\Debug\net8.0-windows\SimuladorMRUV.csproj.CoreCompileInputs.cache
+C:\source\repos\SimuladorMRUV\SimuladorMRUV\obj\Debug\net8.0-windows\SimuladorMRUV.dll
+C:\source\repos\SimuladorMRUV\SimuladorMRUV\obj\Debug\net8.0-windows\refint\SimuladorMRUV.dll
+C:\source\repos\SimuladorMRUV\SimuladorMRUV\obj\Debug\net8.0-windows\SimuladorMRUV.pdb
+C:\source\repos\SimuladorMRUV\SimuladorMRUV\obj\Debug\net8.0-windows\SimuladorMRUV.genruntimeconfig.cache
+C:\source\repos\SimuladorMRUV\SimuladorMRUV\obj\Debug\net8.0-windows\ref\SimuladorMRUV.dll
